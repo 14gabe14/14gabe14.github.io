@@ -21,13 +21,10 @@
   "originalAuthor": "Konstantin Münster <mail@konstantin.digital>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
+  "homepage": "https://14gabe14.github.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
+    "url": "https://github.com/14gabe14/14gabe14.github.io"
   },
   "keywords": [
     "react",
