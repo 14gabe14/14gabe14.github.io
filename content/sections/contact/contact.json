@@ -1,0 +1,13 @@
+{
+  "name": "Gabriel Peralta",
+  "email": "peraltag@uwindsor.ca",
+  "description": "AI and Software Development",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

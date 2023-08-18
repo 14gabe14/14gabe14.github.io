@@ -1,0 +1,1 @@
+This Portfolio was created using a Gatsby [Portfolio Template](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal)

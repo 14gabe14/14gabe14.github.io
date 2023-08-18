@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🧠 Signal Processing",
+      "title": "Epileptic Seizure Predicion",
+      "description": "I collaborated with a team of six members to create EpiHealth, an innovative platform designed to predict epileptic seizures utilizing data from wearable devices. We employed tools like Pandas and Numpy for data preprocessing. Furthermore, we trained and implemented a cutting-edge LSTM architecture using Pytorch to predict seizures. We were honored with the Toronto Cohort’s Accelerator Award of the AI4Good Lab for the development of EpiHealth.",
+      "tags": ["PyTorch", "Deep Learning", "LSTM", "Pandas", "NumPy"],
+      "image": {
+        "src": "../../images/app-concept.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/EpiHealthApp/EpiHealthML"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🕹️ Reinforcement Learning",
+      "title": "Snake AI",
+      "description": "Trained a Deep Q Network for Reinforcement Learning to play the Atari game \"Snake\" using the PyTorch and Pygame libraries in Python with a deep neural network and a convolutional neural network",
+      "tags": ["PyTorch", "Reinforcement Learning", "Deep Q Network"],
+      "image": {
+        "src": "../../images/snake_ss.png",
+        "alt": "Snake Game",
+        "linkTo": "https://github.com/14gabe14/snake-AI"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/14gabe14/snake-AI"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🤖 Computer Vision",
+      "title": "UNET for Semantic Segmentation",
+      "description": "Trained a Convolutional Neural Network to label different regions of an image and experimented with different hyper-parameters for semantic segmentation on the Cityscapes Image Pairs Dataset using PyTorch and NumPy",
+      "tags": ["CNN", "Deep Learning", "PyTorch", "NumPy"],
+      "image": {
+        "src": "../../images/Semantic-segmentation.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/14gabe14/UNet-semantic-segmentation"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/14gabe14"
+  }
+}

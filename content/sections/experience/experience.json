@@ -1,0 +1,67 @@
+{
+    "experience": [
+      {
+        "visible": true,
+        "category": "Research Assistant",
+        "title": "University of Windsor",
+        "bulletPoints":["Learned about Python libraries dedicated to Deep Learning (HuggingFace, Fast.ai)",
+        "Developed and experimented with a memory mechanism for CNN layers using PyTorch",
+        "Constructed a forward selection mechanism to determine how much the next layer is involved in the forward computation"
+        ],
+        "tags": ["Deep Learning", "PyTorch", "HuggingFace", "Fast.ai", "Convolutional Neural Networks"],
+        "date": "Sep 2022 - Present"
+      },
+      {
+        "visible": true,
+        "category": "Software Developer Intern",
+        "title": "Royal Bank of Canada",
+        "bulletPoints":[
+          "Implemented an integration and data mapping platform between legacy systems and Salesforce using Java, Spring Boot, SQL, and Apache Kafka",
+          "Built an event listener to process client system business events",
+          "Analyzed mapping requirements to integrate over 30 customer fields to Salesforce",
+          "Managed and maintained APIs using Spring Boot, SQL Server Management Studio and Postman",
+          "Conducted 80+ unit tests to increase test coverage across the team code base using JUnit and Mockito",
+          "Tracked remote deployments on Helios, Jenkins, and Openshift, and resolved deployment failures"
+        ],
+        "tags": ["Java", "Spring Boot", "Apache Kafka", "SQL", "Salesforce", "JUnit", "Mockito", "Helios", "Jenkins", "Openshift"],
+        "date": "Jan 2022 - Aug 2022"
+      },
+      {
+        "visible": true,
+        "category": "Junior Software Developer",
+        "title": "MiTek Canada",
+        "bulletPoints":[
+          "Migrated a monolithic app to cloud-hosted microservices using ASP.NET Core, .NET and C#",
+          "Designed UI components using Angular in Typescript, connected to microservices APIs",
+          "Delivered a final project presentation in front of company executives and employees with different levels of experience",
+          "Devised unit tests for Angular components using Jasmine and Karma"
+        ],
+        "tags": ["Microservices", "Angular", "Typescript", "ASP.NET Core", ".NET", "C#", "Jasmine", "Karma"],
+        "date": "May 2021 - Aug 2021"
+      },
+      {
+        "visible": true,
+        "category": "Research Assistant",
+        "title": "University of Windsor",
+        "bulletPoints":[
+          "Investigated a variety of machine learning models and tools for dimensionality reduction and clustering",
+          "Acquired knowledge of a scRNA-Sequencing pipeline by learning R and the Seurat package",
+          "Presented bi-weekly reports on biological validation of relevant biomarkers"
+        ],
+        "tags": ["Machine Learning", "Computational Biology", "Unsupervised Learning", "Dimensionality Reduction", "sc-RNA Sequencing", "R"],
+        "date": "May 2020 - April 2021"
+      },
+      {
+        "visible": true,
+        "category": "Teaching Assistant",
+        "title": "University of Windsor",
+        "bulletPoints":[
+          "Graded and provided individual feedback on weekly assignments, held office hours, and co-led laboratories",
+          "Courses: Key Concepts in Computer Science, Intro to Algorithms & Programming II, Data Structures and Algorithms, Theory of Computation"
+        ],
+        "tags": ["Data Structures", "Discrete Math", "Algorithms", "Java", "C"],
+        "date": "Sep 2021 - Present"
+      }
+    ]
+  }
+  

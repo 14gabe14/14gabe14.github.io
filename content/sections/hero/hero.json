@@ -1,0 +1,22 @@
+{
+  "intro": "Hello, world!",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Gabriel Peralta",
+  "subtitle": {
+    "prefix": "Software and ",
+    "highlight": "ML",
+    "suffix": " Developer."
+  },
+  "description": "I am a software developer with a strong academic foundation in Machine Learning and Deep Learning. I have utilized my expertise in several AI-related projects and research during my academic journey.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": false
+  }
+}

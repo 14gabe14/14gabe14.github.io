@@ -1,0 +1,73 @@
+.Project {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: center;
+    white-space: normal;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    flex-shrink: 0;
+    padding-right: 2.5rem;
+    max-width: 100%;
+}
+
+.Project .Details {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+
+.Project .Details .Category {
+    font-size: 0.875rem;
+    line-height: 1rem;
+    text-transform: uppercase;
+    letter-spacing: +1px;
+}
+
+.Project .Details .Title {
+    margin-top: 0.625rem;
+    margin-bottom: 0.625rem;
+    font-size: 1.375rem;
+    line-height: 1.625rem;
+    font-weight: 700;
+}
+
+.Header {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Date {
+    font-size: 0.875rem;
+    color: #999;
+    margin-top: 0.25rem;
+    align-self: flex-end; /* Move the date to the right side */
+}
+
+.Project .Details .Tags {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+    line-height: 1.2rem;
+}
+
+.Project .Details .Tags span {
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+.Project .BulletPoints {
+    font-size: 1rem;
+    line-height: 1.2rem;
+}
+
+.Date {
+    font-size: 0.875rem; /* Adjust the size as needed */
+    color: #999; /* Adjust the color as needed */
+    margin-top: 0.25rem;
+  }
