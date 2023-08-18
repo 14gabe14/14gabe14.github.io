@@ -4,13 +4,7 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-Gabriel Peralta<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
-
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
-
+Gabriel Peralta<br/>
 ---
 
 #### Liability for Contents
