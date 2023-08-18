@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://14gabe14.github.io/sitemap-index.xml
+Host: https://14gabe14.github.io
