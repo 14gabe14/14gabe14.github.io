@@ -1,0 +1,41 @@
+{
+  "skills": [
+    {
+      "label": "PyTorch",
+      "emoji": "🔥"
+    },
+    {
+      "label": "TensorFlow",
+      "emoji": "🤖"
+    },
+    {
+      "label": "Pandas",
+      "emoji": "🐼"
+    },
+    {
+      "label": "NumPy",
+      "emoji": "🔢"
+    },
+    {
+      "label": "Python",
+      "emoji": "🐍"
+    },
+    {
+      "label": "Java",
+      "emoji": "☕"
+    },
+    {
+      "label": "C++",
+      "emoji": "💻"
+    },
+    {
+      "label": "JavaScript",
+      "emoji": "🟨"
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownSkills": 5
+  }
+}
