@@ -22,7 +22,7 @@ export function Experience(props: ExperienceProps) {
   return (
     <Animation
       type="fadeUp"
-      className={classes.Project}
+      className={classes.Experience}
     >
       <div className={classes.Details}>
         <div className={classes.Header}>

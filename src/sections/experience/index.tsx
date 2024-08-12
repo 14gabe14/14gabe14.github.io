@@ -14,7 +14,7 @@ export default function ExperienceSection({ sectionId, heading }) {
   return (
     <Animation type="fadeIn">
       <Section anchor={sectionId} heading={heading}>
-        <Slider additionalClasses={[classes.Projects]}>
+        <Slider additionalClasses={[classes.Experiences]}>
           {data.experience.map((experience, key) => {
               return experience.visible ? <Experience key={key} index={key} data={experience} /> : null;
           })}

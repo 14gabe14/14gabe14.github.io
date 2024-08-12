@@ -1,20 +1,20 @@
-.Projects {
+.Experiences {
     display: flex;
     flex-direction: row;
     margin-top: -2rem;
 }
 
-.MoreProjects {
+.MoreExperiences {
     margin-top: 0rem;
     text-align: center;
 }
 
 @media (min-width: 992px) {
-    .Projects {
+    .Experiences {
         flex-direction: column;
         margin-top: 0;
     }
-    .MoreProjects {
+    .MoreExperiences {
         margin-top: 0;
     }
 }

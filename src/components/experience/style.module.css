@@ -1,4 +1,4 @@
-.Project {
+.Experience {
     display: flex;
     flex-direction: column-reverse;
     justify-content: flex-end;
@@ -11,7 +11,7 @@
     max-width: 100%;
 }
 
-.Project .Details {
+.Experience .Details {
     width: 100%;
     max-width: 100%;
     display: flex;
@@ -19,14 +19,14 @@
     margin-top: 1rem;
 }
 
-.Project .Details .Category {
+.Experience .Details .Category {
     font-size: 0.875rem;
     line-height: 1rem;
     text-transform: uppercase;
     letter-spacing: +1px;
 }
 
-.Project .Details .Title {
+.Experience .Details .Title {
     margin-top: 0.625rem;
     margin-bottom: 0.625rem;
     font-size: 1.375rem;
@@ -49,25 +49,19 @@
     align-self: flex-end; /* Move the date to the right side */
 }
 
-.Project .Details .Tags {
+.Experience .Details .Tags {
     display: flex;
     flex-wrap: wrap;
     margin-top: 1.5rem;
     line-height: 1.2rem;
 }
 
-.Project .Details .Tags span {
+.Experience .Details .Tags span {
     margin-right: 1rem;
     margin-bottom: 1rem;
 }
 
-.Project .BulletPoints {
+.Experience .BulletPoints {
     font-size: 1rem;
     line-height: 1.2rem;
 }
-
-.Date {
-    font-size: 0.875rem; /* Adjust the size as needed */
-    color: #999; /* Adjust the color as needed */
-    margin-top: 0.25rem;
-  }
