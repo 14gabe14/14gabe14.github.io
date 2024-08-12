@@ -1,0 +1,63 @@
+.Certificate {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: center;
+    white-space: normal;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    flex-shrink: 0;
+    padding-right: 2.5rem;
+    max-width: 100%;
+}
+
+.Certificate .Details {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0rem;
+}
+
+.Certificate .Details .Category {
+    font-size: 0.875rem;
+    line-height: 1rem;
+    text-transform: uppercase;
+    letter-spacing: +1px;
+}
+
+.Certificate .Details .Title {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    font-size: 1.175rem;
+    line-height: 1.625rem;
+    font-weight: 350;
+}
+
+.Header {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Date {
+    font-size: 1rem;
+    color: #999;
+    margin-top: 0.25rem;
+    align-self: flex-end; /* Move the date to the right side */
+}
+
+.Certificate .Details .Tags {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+    line-height: 1.2rem;
+}
+
+.Certificate .Details .Tags span {
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+

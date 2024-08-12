@@ -1,0 +1,53 @@
+{
+    "certificates": [
+      {
+        "visible": true,
+        "title": "NeuroAI",
+        "institution": "Neuromatch Academy",
+        "tags": ["Machine Learning", "Dynamical Systems", "Stochastic Processes"],
+        "date": "2024",
+        "category": ["Artificial Intelligence", "Neuroscience"]
+      },
+      {
+        "visible": true,
+        "title": "NoSQL, Big Data, and Spark Fundamentals Professional Certificate",
+        "institution": "IBM",
+        "tags": ["MongoDB", "Apache Spark", "Hadoop"],
+        "date": "2023",
+        "category": ["Artificial Intelligence", "Data Engineering", "Software Engineering"]
+      },
+      {
+        "visible": true,
+        "title": "Natural Language Processing Specialization",
+        "institution": "DeepLearning.AI",
+        "tags": ["Transformers", "Large Language Models", "HuggingFace", "BERT", "JAX"],
+        "date": "2023",
+        "category": ["Artificial Intelligence", "NLP"]
+      },
+      {
+        "visible": true,
+        "title": "Computational Neuroscience",
+        "institution": "Neuromatch Academy",
+        "tags": ["Machine Learning", "Dynamical Systems", "Stochastic Processes"],
+        "date": "2023",
+        "category": ["Artificial Intelligence", "Neuroscience"]
+      },
+      {
+        "visible": true,
+        "title": "Machine Learning",
+        "institution": "Alberta Machine Intelligence Institute",
+        "tags": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning"],
+        "date": "2022",
+        "category": ["Artificial Intelligence", "Machine Learning"]
+      },
+      {
+        "visible": true,
+        "title": "Neural Networks and Deep Learning",
+        "institution": "DeepLearning.AI",
+        "tags": ["Computer Vision", "Natural Language Processing", "Tensorflow", "Model Finetuning"],
+        "date": "2019",
+        "category": ["Artificial Intelligence", "Deep Learning"]
+      }
+    ]
+  }
+  

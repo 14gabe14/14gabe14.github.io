@@ -1,0 +1,20 @@
+.Certificates {
+    display: flex;
+    flex-direction: row;
+    margin-top: -2rem;
+}
+
+.MoreCertificates {
+    margin-top: 0rem;
+    text-align: center;
+}
+
+@media (min-width: 992px) {
+    .Certificates {
+        flex-direction: column;
+        margin-top: 0;
+    }
+    .MoreCertificates {
+        margin-top: 0;
+    }
+}
