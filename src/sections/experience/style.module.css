@@ -9,6 +9,11 @@
     text-align: center;
 }
 
+/* Adjust the space between bullet points */
+ul li, ol li {
+    margin-bottom: 0.5rem; /* Adjust the value as needed */
+}
+
 @media (min-width: 992px) {
     .Experiences {
         flex-direction: column;

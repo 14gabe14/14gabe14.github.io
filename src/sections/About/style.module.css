@@ -1,0 +1,49 @@
+.About {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /* Allow content to wrap */
+    justify-content: space-between;
+}
+
+.About .Description {
+    width: 100%;
+    max-width: 34.25rem;
+    margin-bottom: 3rem;
+    flex: 1 1 auto; /* Allow the description to expand */
+}
+
+.About .ImageWrapper {
+    width: 100%;
+    height: auto;
+    max-width: 18rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 0 0 auto; /* Prevent the image from shrinking */
+}
+
+.About .ImageWrapper img {
+    width: 100%;
+    height: auto;
+    object-fit: contain; /* Ensure the image maintains its aspect ratio without cropping */
+}
+
+.About .Image {
+    border-radius: var(--border-radius);
+    box-shadow: 0 0 2.5rem rgba(0, 0, 0, 0.16);
+    filter: grayscale(20%) contrast(1) brightness(90%);
+}
+
+@media (min-width: 768px) {
+    .About {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .About .Description {
+        margin-bottom: 0;
+        margin-right: 3rem;
+    }
+    .About .ImageWrapper {
+        margin-bottom: 0;
+    }
+}
