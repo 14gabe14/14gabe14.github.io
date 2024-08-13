@@ -2,6 +2,21 @@
     "experience": [
       {
         "visible": true,
+        "category": "Software Engineer",
+        "title": "Royal Bank of Canada",
+        "bulletPoints":[
+          "Played a key role in the development of a large-scale integration platform connecting multiple RBC applications to Salesforce, handling approximately 300,000 records daily from over 20 million users using Java, Spring Boot, and SQL Server",
+          "Applied multi-threading and parallel processing concepts to handle large-scale data integration, maintaining the correct order of operations to ensure data integrity in Salesforce",
+          "Optimized processing speed by implementing a batching mechanism, increasing TPS by 208%, 286%, and 1485%",
+          "Redesigned database operations using an Enum-based strategy, eliminating code redundancy and simplifying the maintenance and scalability of processing components, which reduced potential future development efforts by 50%",
+          "Decoupled complex processing logic into modular components, addressing performance bottlenecks and improving the overall system’s efficiency, particularly in managing different types of records with varying processing requirements",
+          "Handled deployments and troubleshooting using Jenkins and OpenShift"
+        ],
+        "tags": ["Java", "Spring Boot", "Apache Kafka", "SQL", "Salesforce", "JUnit", "Mockito", "Jenkins", "Openshift"],
+        "date": "Mar 2024 - Present"
+      },
+      {
+        "visible": true,
         "category": "Research Assistant",
         "title": "University of Windsor",
         "bulletPoints":["Learned about Python libraries dedicated to Deep Learning (HuggingFace, Fast.ai)",
@@ -9,7 +24,7 @@
         "Constructed a forward selection mechanism to determine how much the next layer is involved in the forward computation"
         ],
         "tags": ["Deep Learning", "PyTorch", "HuggingFace", "Fast.ai", "Convolutional Neural Networks"],
-        "date": "Sep 2022 - Present"
+        "date": "Sep 2022 - May 2023"
       },
       {
         "visible": true,
@@ -23,7 +38,7 @@
           "Conducted 80+ unit tests to increase test coverage across the team code base using JUnit and Mockito",
           "Tracked remote deployments on Helios, Jenkins, and Openshift, and resolved deployment failures"
         ],
-        "tags": ["Java", "Spring Boot", "Apache Kafka", "SQL", "Salesforce", "JUnit", "Mockito", "Helios", "Jenkins", "Openshift"],
+        "tags": ["Java", "Spring Boot", "Apache Kafka", "SQL", "Salesforce", "JUnit", "Mockito", "Jenkins", "Openshift"],
         "date": "Jan 2022 - Aug 2022"
       },
       {
@@ -60,7 +75,7 @@
           "Courses: Key Concepts in Computer Science, Intro to Algorithms & Programming II, Data Structures and Algorithms, Theory of Computation"
         ],
         "tags": ["Data Structures", "Discrete Math", "Algorithms", "Java", "C"],
-        "date": "Sep 2021 - Present"
+        "date": "Sep 2021 - Dec 2023"
       }
     ]
   }

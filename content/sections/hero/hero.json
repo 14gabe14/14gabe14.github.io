@@ -1,8 +1,8 @@
 {
-  "intro": "Hello, world!",
+  "intro": "Hello, innovators!",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "alt": "Gabriel Peralta - Software & ML Engineer"
   },
   "image": {
     "src": "../../images/waving-hand.png",
@@ -10,13 +10,13 @@
   },
   "title": "I'm Gabriel Peralta",
   "subtitle": {
-    "prefix": "Software and ",
-    "highlight": "ML",
-    "suffix": " Developer."
+    "prefix": "Software Engineer & ",
+    "highlight": "ML Specialist",
+    "suffix": "."
   },
-  "description": "I am a software developer with a strong academic foundation in Machine Learning and Deep Learning. I have utilized my expertise in several AI-related projects and research during my academic journey.",
+  "description": "I'm a passionate software engineer with expertise in building scalable systems and implementing cutting-edge machine learning solutions.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
   }
 }
