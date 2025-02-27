@@ -2,6 +2,23 @@
   "projects": [
     {
       "visible": true,
+      "category": "📝 Large Language Models",
+      "title": "Multi-Repository Updater AI",
+      "description": "Developed an AI-powered tool using LLMs to automate code updates across multiple GitHub repositories, streamlining software maintenance and reducing manual effort.",
+      "tags": ["Python", "OpenAI", "LLMs"],
+      "image": {
+        "src": "../../images/multi-repo-updater.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/EpiHealthApp/EpiHealthML"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🧠 Signal Processing",
       "title": "Epileptic Seizure Predicion",
       "description": "I collaborated with a team of six members to create EpiHealth, an innovative platform designed to predict epileptic seizures utilizing data from wearable devices. We employed tools like Pandas and Numpy for data preprocessing. Furthermore, we trained and implemented a cutting-edge LSTM architecture using Pytorch to predict seizures. We were honored with the Toronto Cohort’s Accelerator Award of the AI4Good Lab for the development of EpiHealth.",
